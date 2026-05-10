@@ -32,8 +32,8 @@ function HeroSection() {
 
         <a
           href="#process"
-          className="mt-8 inline-block rounded px-8 py-3 text-sm font-medium text-white transition-all duration-200 hover:bg-white hover:text-[#1A4D8D]"
-          style={{ border: '1.5px solid #2ec4b6' }}
+          className="mt-8 inline-block rounded px-8 py-3 text-sm font-medium text-white transition-all duration-200 bg-[#0284C7] "
+          
         >
           Book a Site Walkthrough
         </a>
